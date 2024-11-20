@@ -15,7 +15,6 @@
   <img align="center" alt="Aquila-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
   <img align="center" alt="Aquila-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
   <img align="center" alt="Aquila-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-  <img align="right" alt=Aquilasrc="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Kuriyama_Mirai_flips_through_The_C_Programming_Language.gif"  />
 </div>
   
   ##
