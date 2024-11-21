@@ -27,6 +27,14 @@
 
 ##
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AquilaOliveira/AquilaOliveira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AquilaOliveira/AquilaOliveira/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AquilaOliveira/AquilaOliveira/output/github-contribution-grid-snake.svg">
+</picture>
+
+##
+
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
